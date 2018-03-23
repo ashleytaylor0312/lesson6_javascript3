@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 22, 2018
 
 ### Student Name:  
-(First and Last Name)
+Ashley Taylor 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I used the structure of BOM and DOM to create an application photo gallery code to allow users to navigate either right or left through the images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://ashleytaylor0312.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Adding and Removing Nodes
+2. Use ID, Tag name, class, name, or selector to access an element
+3. Access element content, CSS properities and attributes
